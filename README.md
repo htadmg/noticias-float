@@ -1,34 +1,29 @@
-# Website de Notícias
+# Notícias
 
+## Descrição do Projeto
 Este é um projeto de um website simples para exibição de notícias e fotos fictícias.
-
-## Descrição
-
 O projeto consiste em uma página HTML básica com seções para notícias e fotos. A estrutura da página inclui um cabeçalho com um menu de navegação, uma seção de notícias com três artigos simulados e uma seção de fotos com imagens fictícias.
 
-## Estrutura de Arquivos
+## Tecnologias Utilizadas
 
-- `index.html`: Arquivo principal contendo a estrutura HTML da página.
-- `CSS/style.css`: Arquivo CSS para estilização do conteúdo.
-- `imagens/`: Diretório contendo imagens utilizadas no site.
+- **HTML**: Estrutura do conteúdo da página.
+- **CSS**: Estilização e layout da interface.
 
-## Uso
+## Como Configurar o Projeto
 
-Para visualizar o site localmente, basta abrir o arquivo `index.html` em um navegador da web.
+Para executar este projeto localmente, siga os passos abaixo:
 
-## Recursos Utilizados
-
-- HTML5
-- CSS3
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para discutir novos recursos ou enviar um pull request.
-
-## Autor
-
-Agata Domingues
-
-## Licença
-
-Este projeto está sob a [licença MIT](https://opensource.org/licenses/MIT).
+1. **Clone o Repositório**
+- Usando HTTPS:
+```bash
+git clone https://github.com/htadmg/noticias-float.git
+```
+- Usando SSH:
+```bash
+git clone git@github.com:htadmg/noticias-float.git
+```
+- Navegue até o diretório do projeto:
+```bash
+cd .\noticias-float
+```
+2. **Abra o arquivo index.html no seu navegador**
